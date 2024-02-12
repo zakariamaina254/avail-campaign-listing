@@ -1,0 +1,8 @@
+{
+  "name": "neptune",
+  "logo": "",
+  "rpc_url": "http://46.250.224.214:9944",
+  "explorer_url": "http://46.250.224.214:4000",
+  "metrics_endpoint": "http://46.250.224.214:9615/metrics",
+  "id": "9ccc507c-309a-4656-9169-2d0f451ce3ea"
+}
